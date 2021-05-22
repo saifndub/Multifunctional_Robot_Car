@@ -8,10 +8,10 @@ String voice;
 void setup()
 {
   Serial.begin(38400);
-  pinMode(motor_input1, OUTPUT);   //RIGHT MOTOR
-  pinMode(motor_input2, OUTPUT);   //RIGHT MOTOR
-  pinMode(motor_input3, OUTPUT);   //LEFT MOTOR
-  pinMode(motor_input4, OUTPUT);   //LEFT MOTOR
+  pinMode(motor_input1, OUTPUT); //RIGHT MOTOR
+  pinMode(motor_input2, OUTPUT); //RIGHT MOTOR
+  pinMode(motor_input3, OUTPUT); //LEFT MOTOR
+  pinMode(motor_input4, OUTPUT); //LEFT MOTOR
   pinMode(enA, OUTPUT);
   pinMode(enB, OUTPUT);
 }
