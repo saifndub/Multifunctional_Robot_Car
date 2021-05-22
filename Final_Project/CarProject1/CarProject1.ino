@@ -97,6 +97,7 @@ void loop()
     else{
       if((voice == "go ahead") || (voice == "forward")){
       stop_car();
+      led();
       forward_car();
       }
     else if((voice == "go back") || (voice == "come back")){
