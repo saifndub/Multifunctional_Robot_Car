@@ -10,7 +10,7 @@
 - [ ] NB: For 1 and 2 it needs the smartphone. </br>
 - [ ] To show the video of this project click [here](https://youtu.be/kdsVhpjAuRs).
 
-<p align=justify>It is completely made by me(Md. Saif Hossain) and the help of responsive partner Allen Biswas as an outcome of the Microprocessor Course that we have completed in the 6th(Summer-2019) trimester under the course coordinator Md Bayazid Rahman. We have made the project for the purpose to present in the project showcase program of CSE Fest-2019 organized by NDUBCC. It is an opportunity for us to express our proficiency in Arduino. This great achievement has been possible for the guidance of Md Bayazid Rahman Sir, and I am proud to have made this.<p/>
+<p align=justify>It is completely made by me(Md Saif Hossain) and the help of responsive partner (Allen Biswas), as an outcome of the Microprocessor and Assembly Language Programming course that we have completed in the 6th(Summer-2019) trimester under the course coordinator Md Bayazid Rahman. We have made the project for the purpose to present in the project showcase program of CSE Fest-2019 organized by NDUBCC. It is an opportunity for us to express our proficiency in Arduino. This great achievement has been possible for the guidance of Md Bayazid Rahman Sir, and I am proud to have made this.<p/>
 
 Guided By : Md Bayazid Rahman </br>
 Creator : Md. Saif Hossain </br>
