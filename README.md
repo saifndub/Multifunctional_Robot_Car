@@ -30,7 +30,7 @@ Partner : Allen Biswas
 <details>
 <summary>Remote Control(Gyro + Manual)</summary>
 
-- App Name: RemoteXY
+- App Name: RemoteXY [Download Link](https://play.google.com/store/apps/details?id=com.shevauto.remotexy.free&hl=en&gl=US&pli=1) | [Website](https://remotexy.com/)
 - Installed version: 4.11.9
 - Installer: Google Play
 - Support: info@remotexy.com
