@@ -24,3 +24,14 @@ Partner : Allen Biswas
 - It also establishes wireless communication with Bluetooth(HC-05) and Wi-Fi(ESP8266) module. It receives the data of voice using the Bluetooth module and gives access to a remote to the user with the Wi-Fi module.
 
 - In the voice control, the voice is sent using a smartphone(master) and the Car(slave) receives data from the system. In the remote control, users can control it by remote in manual or gyro mode. In object avoiding, the car avoids in front of all objects automatically.
+
+### Tools (Software) :
+
+<details>
+<summary>Remote Control(Gyro + Manual)</summary>
+
+- App Name: RemoteXY
+- Installed version: 4.11.9
+- Installer: Google Play
+- Support: info@remotexy.com
+</details>
