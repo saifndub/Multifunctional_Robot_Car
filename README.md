@@ -40,7 +40,7 @@ Partner : Allen Biswas
 <summary>Voice Control</summary>
 
 <details>
-<summary>App Name: Arduino Bluetooth Controller</summary>
+<summary>Arduino Bluetooth Controller</summary>
   
 - Installer: Google Play
 - Support: support@myvalleyapps.com
@@ -48,7 +48,7 @@ Partner : Allen Biswas
 </details>
 
 <details>
-<summary>App Name: Arduino Voice Control</summary>
+<summary>Arduino Voice Control</summary>
   
 - Installer: Google Play
 - Support: cempehlivan92@gmail.com
@@ -56,7 +56,7 @@ Partner : Allen Biswas
 </details>
 
 <details>
-<summary>App Name: Arduino bluetooth controller</summary>
+<summary>Arduino bluetooth controller</summary>
   
 - Installer: Google Play
 - Support: giugiumig@gmail.com
