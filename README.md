@@ -54,5 +54,12 @@ Partner : Allen Biswas
 - Support: cempehlivan92@gmail.com
 - [Download Link](https://play.google.com/store/apps/details?id=appinventor.ai_cempehlivan92.Arduino_Sesli_Kontrol&hl=en&gl=US) | [Website]()
 </details>
-</details>
 
+<details>
+<summary>App Name: Arduino bluetooth controller</summary>
+  
+- Installer: Google Play
+- Support: giugiumig@gmail.com
+- [Download Link](https://play.google.com/store/apps/details?id=com.giumig.apps.bluetoothserialmonitor&hl=en&gl=US) | [Website]()
+</details>
+</details>
