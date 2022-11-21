@@ -28,6 +28,15 @@ Partner : Allen Biswas
 ### Tools (Software) :
 
 <details>
+<summary>Remote Control(Gyro + Manual)</summary>
+
+- App Name: RemoteXY
+- Installer: Google Play
+- Support: info@remotexy.com
+- [Download Link](https://play.google.com/store/apps/details?id=com.shevauto.remotexy.free&hl=en&gl=US&pli=1) | [Website](https://remotexy.com/)
+</details>
+
+<details>
 <summary>Voice Control</summary>
 
 <details>
@@ -37,13 +46,13 @@ Partner : Allen Biswas
 - Support: support@myvalleyapps.com
 - [Download Link](https://play.google.com/store/apps/details?id=com.appsvalley.bluetooth.arduinocontroller&hl=en&gl=US) | [Website](https://myvalleyapps.com/)
 </details>
-</details>
 
 <details>
-<summary>Remote Control(Gyro + Manual)</summary>
-
-- App Name: RemoteXY
+<summary>App Name: Arduino Voice Control</summary>
+  
 - Installer: Google Play
-- Support: info@remotexy.com
-- [Download Link](https://play.google.com/store/apps/details?id=com.shevauto.remotexy.free&hl=en&gl=US&pli=1) | [Website](https://remotexy.com/)
+- Support: cempehlivan92@gmail.com
+- [Download Link](https://play.google.com/store/apps/details?id=appinventor.ai_cempehlivan92.Arduino_Sesli_Kontrol&hl=en&gl=US) | [Website]()
 </details>
+</details>
+
